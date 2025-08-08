@@ -103,6 +103,16 @@ const debugLikeABoss = (problem) => {
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
+## ⚔️ **Tech Weaponry**
+
+<div align="center">
+
+| **Frontend** | **Backend** | **Database** | **DevOps** |
+|--------------|-------------|--------------|------------|
+| <img src="https://skillicons.dev/icons?i=react,vue,typescript,tailwind,nextjs,redux&theme=dark"> | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,express,flask&theme=dark"> | <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase&theme=dark"> | <img src="https://skillicons.dev/icons?i=docker,aws,git,github,githubactions&theme=dark"> |
+
+</div>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
