@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siyamregn777&label=PROFILE+VISITS&color=2962FF&style=for-the-badge" alt="Profile Views" /> 
+  <img src="https://komarev.com/ghpvc/?username=Daniyeshi&label=PROFILE+VISITS&color=2962FF&style=for-the-badge" alt="Profile Views" /> 
   <img src="https://img.shields.io/badge/Daily_Coding_Streak-50+-brightgreen?style=for-the-badge" alt="Coding Streak">
 </p>
 
@@ -57,11 +57,11 @@ pie showData
 <div align="center">
   ```
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=siyamregn777&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00FFD1&text_color=FFFFFF" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=siyamregn777&theme=holi-theme&hide_border=true&background=0D1117&stroke=00D1FF&ring=00FFD1&fire=FF00D1&currStreakLabel=00FFD1" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Daniyeshi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D1FF&icon_color=00FFD1&text_color=FFFFFF" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Daniyeshi&theme=holi-theme&hide_border=true&background=0D1117&stroke=00D1FF&ring=00FFD1&fire=FF00D1&currStreakLabel=00FFD1" />
 </div>
 <!-- <div>
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=siyamregn777&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D1FF&line=00FFD1&point=FF00D1&random=1" width="90%"/>
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Daniyeshi&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D1FF&line=00FFD1&point=FF00D1&random=1" width="90%"/>
 </div> -->
 
 
@@ -73,7 +73,7 @@ pie showData
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=siyamregn777&theme=onedark&row=2&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true&title=Commits,PullRequests,Repositories,Stars)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Daniyeshi&theme=onedark&row=2&column=4&margin-w=15&margin-h=15&no-frame=true&no-bg=true&title=Commits,PullRequests,Repositories,Stars)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 <div align="center">
@@ -122,7 +122,7 @@ const debugLikeABoss = (problem) => {
 
 <div align="center">
   
-![3D Coding Sphere](https://raw.githubusercontent.com/siyamregn777/siyamregn777/output/github-contribution-grid-snake-dark.svg)
+![3D Coding Sphere](https://raw.githubusercontent.com/Daniyeshi/Daniyeshi/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
